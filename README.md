@@ -16,16 +16,6 @@
   </h3>
 </div>
 
-## Overview
-
--Mobile:
-
-![screenshot](resources/mobile.png)
-
--Desktop
-
-![screenshot](resources/desktop.png)
-
 ### Built With
 
 - Html
